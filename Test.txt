@@ -1,0 +1,21 @@
+Answers:-
+      1.Javascript
+      2.HTML & CSS
+      3. 1)div tag is used to make divisions among the content of webpage.
+         2)It makes the webpage look more arranged and neat.
+      4.absolute - used to move elements inside a specified box or element.
+        relative - used to move a element or a box.
+      5.opacity is the transparency of a object or element.
+      6.JSX
+      7.An online editor called snack.
+      8.We need to install a app named Expo go on mobile and inside the app 
+        we can find the option scan qr code, in snack we can find qr code of 
+        project we are working on and we can scan the code and we can test the app
+        we created.
+      9.render is used to display the elements.
+      10.Whatever a function component returns is rendered as a element.
+      11.1)React
+         2)Component
+         3)View
+         4)Button
+         5)Text
